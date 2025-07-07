@@ -296,7 +296,7 @@ function App() {
       </div>
       
       <div className="mt-8 text-gray-500 text-sm text-center">
-        <p>Created with React • Modern UI Design</p>
+        <p>Created by @Jagjeet</p>
       </div>
     </div>
   );
